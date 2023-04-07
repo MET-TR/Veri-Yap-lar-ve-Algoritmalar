@@ -1,1 +1,1 @@
-# Veri-Yap-lar-ve-Algoritmalar
+# Veri-Yapi-lari-ve-Algoritmalar
